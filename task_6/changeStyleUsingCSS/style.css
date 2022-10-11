@@ -1,0 +1,14 @@
+.element-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.element-2 {
+    width: 100px; 
+    height: 100px; 
+    background-color: green;
+}
